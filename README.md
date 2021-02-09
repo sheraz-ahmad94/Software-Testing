@@ -21,3 +21,7 @@ Semester Project for Software Testing
 - Changes in UI should not effect the tests.
 - Data driven testing
 - Mobile application testing
+
+
+
+https://forms.gle/wYN9SvEsmymgvJCb8
